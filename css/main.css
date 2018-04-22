@@ -95,19 +95,22 @@ textarea {
 
 h1{
     alignment: center;
-}
+    color: dodgerblue;
+    }
 
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 100px;
+}
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
 
-
-
-
-
-
-
-
+p {
+    font-family: "Times New Roman", Times, serif;
+}
 
 
 
